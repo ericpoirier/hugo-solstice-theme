@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Hugo Solstice Theme</title>
+    <link>https://eclipsefdn.github.io/hugo-solstice-theme/news/</link>
+    <description>Recent content in News on Hugo Solstice Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>webdev@eclipse-foundation.org (Christopher Guindon)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Christopher Guindon)</webMaster>
+    <lastBuildDate>Tue, 24 Apr 2018 05:03:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://eclipsefdn.github.io/hugo-solstice-theme/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World: Hugo Solstice Theme</title>
+      <link>https://eclipsefdn.github.io/hugo-solstice-theme/news/2018/04/24/hello-world-hugo-solstice-theme/</link>
+      <pubDate>Tue, 24 Apr 2018 05:03:58 -0400</pubDate>
+      <author>webdev@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/hugo-solstice-theme/news/2018/04/24/hello-world-hugo-solstice-theme/</guid>
+      <description>This is an example of the Eclipse Foundation Solstice theme for Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>

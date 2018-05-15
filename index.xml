@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Hugo Solstice Theme</title>
+    <link>https://eclipsefdn.github.io/hugo-solstice-theme/</link>
+    <description>Recent content in Home on Hugo Solstice Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>webdev@eclipse-foundation.org (Christopher Guindon)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Christopher Guindon)</webMaster>
+    <lastBuildDate>Thu, 05 Apr 2018 15:50:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://eclipsefdn.github.io/hugo-solstice-theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World: Hugo Solstice Theme</title>
+      <link>https://eclipsefdn.github.io/hugo-solstice-theme/news/2018/04/24/hello-world-hugo-solstice-theme/</link>
+      <pubDate>Tue, 24 Apr 2018 05:03:58 -0400</pubDate>
+      <author>webdev@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/hugo-solstice-theme/news/2018/04/24/hello-world-hugo-solstice-theme/</guid>
+      <description>This is an example of the Eclipse Foundation Solstice theme for Hugo.</description>
+    </item>
+    
+    <item>
+      <title>title</title>
+      <link>https://eclipsefdn.github.io/hugo-solstice-theme/about/</link>
+      <pubDate>Thu, 05 Apr 2018 16:09:45 -0400</pubDate>
+      <author>webdev@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/hugo-solstice-theme/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet tortor id rhoncus pulvinar. Suspendisse nec aliquam ante. Sed vel convallis ex, ac elementum nisi. Nam eros lectus, tempus sit amet lorem at, laoreet blandit enim. Vestibulum metus justo, venenatis mollis ex quis, pretium ultricies orci. Pellentesque accumsan nulla ac leo convallis ornare. Cras rhoncus sapien lacus, vel tincidunt nibh lacinia ac. Vivamus vel egestas mi. Morbi nulla ante, rutrum quis congue non, luctus vehicula dui.</description>
+    </item>
+    
+  </channel>
+</rss>
